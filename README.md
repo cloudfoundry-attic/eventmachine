@@ -107,3 +107,8 @@ Copyright: (C) 2006-07 by Francis Cianfrocca. All Rights Reserved.
 
 If you are unhappy with EventMachine and want to use Ruby, check out [Cool.io](http://coolio.github.com/).
 One caveat: by May 2011, it did not support JRuby and Windows.
+
+## File a Bug
+
+To file a bug against Cloud Foundry Open Source and its components, sign up and use our
+bug tracking system: [http://cloudfoundry.atlassian.net](http://cloudfoundry.atlassian.net)
